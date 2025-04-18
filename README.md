@@ -4,10 +4,9 @@ A hyper-personalization system for baking enthusiasts that provides personalized
 
 ## Features
 
-- Personalized recipe recommendations based on user preferences
-- Baking technique suggestions
-- Ingredient substitution recommendations
-- Difficulty level assessment
+- Personalized banking product recommendations based on user preferences
+- Banking technique suggestions
+- Feedback based recommendation
 - Interactive user interface
 
 ## Setup
